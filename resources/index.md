@@ -19,9 +19,12 @@ JQuery Tutorials - [Link] (http://www.jqueryrain.com/example/bootstrap/)<br>
 Google's Guide to Web Development - [Link](https://www.google.com/about/careers/students/guide-to-technical-development.html)<br>
 Markdown Cheatsheet - [Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
 
-#### News
+#### Technology News
 
-Here's an example of some ruby code with line anchors.
+Hacker News - [Link](https://news.ycombinator.com)<br>
+TechCrunch - [Link](http://http://techcrunch.com/)<br>
+Product Hunt - [Link](http://www.producthunt.com/)<br>
+Tech Insider - [Link](http://www.techinsider.io/)
 
 #### Books
 
