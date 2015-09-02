@@ -14,6 +14,7 @@ A compilation of resources that I've picked up along the way. I hope you find th
 Machine Learning - [Link](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 Ruby Primer - [Link](https://www.railstutorial.org/book/frontmatter)
 Learn Git - [Link](https://www.atlassian.com/git/tutorials/)
+JQuery Tutorials - [Link] (http://www.jqueryrain.com/example/bootstrap/)
 
 #### News
 
