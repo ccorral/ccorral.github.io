@@ -16,7 +16,7 @@ A compilation of resources that I've picked up along the way. I hope you find th
 
 Ruby Primer - [Link](https://www.railstutorial.org/book/frontmatter)<br>
 Learn Git - [Link](https://www.atlassian.com/git/tutorials/)<br>
-JQuery Tutorials - [Link] (http://www.jqueryrain.com/example/bootstrap/)<br>
+JQuery Tutorials - [Link](http://www.jqueryrain.com/example/bootstrap/)<br>
 Google's Guide to Web Development - [Link](https://www.google.com/about/careers/students/guide-to-technical-development.html)<br>
 
 ##### Data
