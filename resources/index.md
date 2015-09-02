@@ -11,7 +11,7 @@ A compilation of resources that I've picked up along the way. I hope you find th
 
 #### Development
 
-Here's an example of some ruby code with line anchors.
+Machine Learning - [Link](https://www.google.com)
 
 #### News
 
