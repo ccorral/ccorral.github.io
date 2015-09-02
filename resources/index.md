@@ -11,7 +11,9 @@ A compilation of resources that I've picked up along the way. I hope you find th
 
 #### Development
 
-Machine Learning - [Link](https://www.google.com)
+Machine Learning - [Link](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+Ruby Primer - [Link](https://www.railstutorial.org/book/frontmatter)
+Learn Git - [Link](https://www.atlassian.com/git/tutorials/)
 
 #### News
 
