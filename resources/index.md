@@ -19,7 +19,7 @@ JQuery Tutorials - [Link] (http://www.jqueryrain.com/example/bootstrap/)<br>
 Google's Guide to Web Development - [Link](https://www.google.com/about/careers/students/guide-to-technical-development.html)<br>
 Markdown Cheatsheet - [Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
 
-#### Technology News
+#### Tech News
 
 Hacker News - [Link](https://news.ycombinator.com)<br>
 TechCrunch - [Link](http://http://techcrunch.com/)<br>
@@ -28,7 +28,9 @@ Tech Insider - [Link](http://www.techinsider.io/)
 
 #### Books
 
-Here's an example of some ruby code with line anchors.
+*Don't Make Me Think* by Steve Krug - [Link](http://amzn.com/0321965515)<br>
+*About Face* by Alan Cooper - [Link](http://amzn.com/1118766571)<br>
+*Inspired: How to Create Products People Love* by Marty Cagan - [Link[(http://amzn.com/0981690408)
 
 #### Talks
 
