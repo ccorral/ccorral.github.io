@@ -28,6 +28,7 @@ Tech Insider - [Link](http://www.techinsider.io/)
 
 #### Books
 
+*The Design of Everyday Things* by Donald Norman -[Link](http://amzn.com/1452654123)
 *Don't Make Me Think* by Steve Krug - [Link](http://amzn.com/0321965515)<br>
 *About Face* by Alan Cooper - [Link](http://amzn.com/1118766571)<br>
 *Inspired: How to Create Products People Love* by Marty Cagan - [Link](http://amzn.com/0981690408)<br>
