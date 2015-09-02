@@ -16,7 +16,7 @@ Ruby Primer - [Link](https://www.railstutorial.org/book/frontmatter)
 Rails Cheat Sheet - [Link](https://github.com/PragTob/rails-beginner-cheatsheet)
 Learn Git - [Link](https://www.atlassian.com/git/tutorials/)
 JQuery Tutorials - [Link] (http://www.jqueryrain.com/example/bootstrap/)
-
+Google's Guide to Web Development - [Link](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 #### News
 
 Here's an example of some ruby code with line anchors.
