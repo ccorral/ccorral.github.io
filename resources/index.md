@@ -6,20 +6,21 @@ published: true
 ---
 
 
+
 A compilation of resources that I've picked up along the way. I hope you find these as useful as I do.
 
-### Development
+#### Development
 
 Here's an example of some ruby code with line anchors.
 
-### News
+#### News
 
 Here's an example of some ruby code with line anchors.
 
-### Books
+#### Books
 
 Here's an example of some ruby code with line anchors.
 
-### Talks
+#### Talks
 
 Here's an example of some ruby code with line anchors.
