@@ -6,4 +6,7 @@ published: true
 ---
 
 
+
 My workflow.
+
+![Design]({{ site.url }}/assets/pages/workflow/sketchlogo.png)
