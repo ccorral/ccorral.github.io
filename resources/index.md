@@ -5,10 +5,7 @@ permalink: /resources/
 published: true
 ---
 
-
-
-
-A compilation of resources that I've picked up along the way. I hope you find these as useful as I do.
+A compilation of curated resources that I've picked up along the way. I hope you find these as useful as I do.
 
 #### Development
 
