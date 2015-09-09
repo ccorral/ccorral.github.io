@@ -5,6 +5,7 @@ permalink: /resources/
 published: true
 ---
 
+
 A compilation of curated resources that I've picked up along the way. I hope you find these as useful as I do.
 
 #### Development
@@ -20,6 +21,7 @@ Google's Guide to Web Development - [Link](https://www.google.com/about/careers/
 
 Machine Learning - [Link](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)<br>
 Optimizely Academy - [Link](https://learn.optimizely.com/hc/en-us)<br>
+Data Science - [Link](http://www.learndatasci.com/free-books/)<br>
 
 ##### Cheatsheets
 
