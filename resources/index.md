@@ -6,16 +6,21 @@ published: true
 ---
 
 
+
 A compilation of curated resources that I've picked up along the way. I hope you find these as useful as I do.
 
-#### Development
+#### Web Dev
 
-##### Languages
+##### Programming
 
 Ruby Primer - [Link](https://www.railstutorial.org/book/frontmatter)<br>
 Learn Git - [Link](https://www.atlassian.com/git/tutorials/)<br>
 JQuery Tutorials - [Link](http://www.jqueryrain.com/example/bootstrap/)<br>
 Google's Guide to Web Development - [Link](https://www.google.com/about/careers/students/guide-to-technical-development.html)<br>
+
+##### Tools
+
+Typeform - [Link](http://www.typeform.com/)<br>
 
 ##### Data
 
