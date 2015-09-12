@@ -13,4 +13,4 @@ Apple's massive event this past week previewed a ton of new products, including 
 
 Here's a "Peek" I created in Sketch then finished it off in Principle:
 
-![3dtouch](https://www.dropbox.com/s/ndp1exhmqycpxbk/3dtouch-example.gif?raw=1)
+![3dtouch](https://www.dropbox.com/s/ndp1exhmqycpxbk/3dtouch-example.gif?raw=1){: .center-image}
