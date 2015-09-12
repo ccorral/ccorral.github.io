@@ -11,4 +11,4 @@ Apple's massive event this past week previewed a ton of new products, including 
 
 Here's a "Peek" of an interaction I created in Principle:
 
-![3dtouch](https://www.dropbox.com/s/d96t8qul7h0b0ao/3dtouch.mov?raw=1){: .center-image}
+![3dtouch](https://www.dropbox.com/s/ndp1exhmqycpxbk/3dtouch-example.gif?raw=1){: .center-image}
