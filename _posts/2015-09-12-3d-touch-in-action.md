@@ -9,7 +9,7 @@ published: true
 
 
 
-Apple's massive event this past week previewed a ton of new products, including a new iPhone, a new AppleTV and their massive new tablet, the iPad Pro. One of the things I'm pretty excited about is 3D Touch, Apple's new Multi-Touch gesture similar to Force Touch seen in the iWatch. 
+Apple's massive event this past week previewed a ton of new products, including a new iPhone, a new AppleTV and their massive new tablet, the iPad Pro. One of the things I'm pretty excited about is 3D Touch, Apple's new Multi-Touch gesture similar to Force Touch seen in the iWatch.  
 
 Here's a "Peek" of an interaction I created in Principle:
 
